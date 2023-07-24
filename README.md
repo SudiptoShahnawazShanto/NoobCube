@@ -1,12 +1,11 @@
 # NoobCube
 
-<!-- <div align="center">
-  <img src=".gif" alt="NoobCube Video" width="100%" />
+<div align="center">
+  <img src="GitHub/NoobCube.gif" alt="NoobCube Video" width="80%" />
   <br>
 </div>
 
 <br/>
-<br/> -->
 
 This is my first ever game created with Unity. It has 3 levels. In each level, you have to make your way to the 
 end of the level without colliding with the walls or dark objects around you. The code uses simple collission detection 
